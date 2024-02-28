@@ -1,6 +1,6 @@
 "use strict"
 /* -------------------------------------------------------
-    EXPRESS - Personnel API
+    EXPRESS - Movie API
 ------------------------------------------------------- */
 /*
     $ npm i express dotenv mongoose express-async-errors
